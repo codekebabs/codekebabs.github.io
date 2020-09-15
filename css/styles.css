@@ -1,0 +1,55 @@
+.bg-color-primary {
+    background: #469DC0 !important;
+}
+
+.color-primary {
+    color: #469DC0 !important;
+}
+
+.color-dark-blue {
+    color: #160C43 !important;
+}
+
+.bg-color-dark-blue {
+    background: #160C43 !important;
+}
+
+.color-secondary {
+    color: #755CE3 !important;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.logo {
+    font-family: 'Alfa Slab One', cursive !important;
+    color: #feda6a !important;
+}
+
+.hidden {
+    display: none;
+}
+
+.profile-details .uk-button {
+    cursor: none !important;
+}
+
+.top-nav {
+    background: #33363b !important;
+}
+
+.tagline {
+    background: #368cbf !important;
+    color: #ffffff !important;
+}
+
+.margin-top-10 {
+    margin-top: 20px !important;
+}
+
+.icon-bar .uk-icon {
+    color: #368cbf !important;
+}
